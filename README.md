@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there, I’m Will 👋
 
-<!--
-**wi11s/wi11s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m the Head of Development at AMIVA+ 🚀, where I lead a small team of engineers specializing in React, Django, and Google Cloud Platform. My team is dedicated to building scalable, innovative M&A solutions, and I’m always excited to tackle new challenges in building better tools for streamlining historically convoluted business processes.
 
-Here are some ideas to get you started:
+🔧 Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	•	Frontend: React, TypeScript
+	•	Backend: Django, REST APIs, Python
+	•	Cloud: Google Cloud Platform (GCP), Docker, Kubernetes
+
+I’ve been working professionally as a full-stack developer since Fall 2022, and before that, I graduated from NYU with a degree in Film and a minor in Math 🎥➕📊.
+
+The 'c' key on my keyboard broke this morning so every time you see the letter 'c' here, it's been pasted from the clipboard. 😎
