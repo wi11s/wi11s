@@ -1,4 +1,4 @@
-Hi there, I’m Will 👋
+## Hi there, I’m Will 👋
 
 I’m the Head of Development at AMIVA+ 🚀, where I lead a small team of engineers specializing in React, Django, and Google Cloud Platform. My team is dedicated to building scalable, innovative M&A solutions, and I’m always excited to tackle new challenges in building better tools for streamlining historically convoluted business processes.
 
