@@ -8,6 +8,6 @@ I’m the Head of Development at [AMIVA+](https://www.amivaplus.com) 🚀, where
 	•	Backend: Django, REST APIs, Python
 	•	Cloud: Google Cloud Platform (GCP), Docker, Kubernetes
 
-I’ve been working professionally as a full-stack developer since Fall 2022, and before that, I graduated from NYU with a degree in Film and a minor in Math 🎥➕📊.
+I’ve been working professionally as a full-stack developer since Fall 2022, and before that, I graduated from NYU with a degree in Film and a minor in Math 🎥➕📊, with honors.
 
 The 'c' key on my keyboard broke this morning so every time you see the letter 'c' here, it's been pasted from my clipboard. 😎
