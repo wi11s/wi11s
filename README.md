@@ -1,3 +1,1 @@
-## Hi !
-
-Happy Spring!
+## Happy Spring!
